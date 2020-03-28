@@ -4,3 +4,6 @@ v-gaps
 viewtag
 fullsc
 pertag
+hide-v-t
+awso-bar
+auto-s
