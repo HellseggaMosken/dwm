@@ -6,4 +6,5 @@ fullsc
 pertag
 hide-v-t
 awso-bar
+alpha
 auto-s
